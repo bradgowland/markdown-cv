@@ -2,52 +2,56 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Brad Gowland
+Data Analyst, Software Developer, Audio Engineer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://github.com/bradgowland">Find my work on GitHub.</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Data Analyst/BI developer and New York Public Radio
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Database management, data analysis, software development, audio engineering
 
+## Work Experience
 
-### Research interests
+`May 2017 - Present`
+__Senior Data Analyst, New York Public Radio__
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Manage database organization, data cleaning processes, and BI software backend development
+- Conduct research projects to interpret, analyze, and present listening and donation data around the organization
+- Involved in initial development and launch of NYPR's first internal data warehouse project
+- Use of SQL, R, BI software (Looker), Google Analytics products, and Excel
 
+`Jul 2015 - Aug 2016`
+__Financial Analyst, Nextility__
+
+- Provided financial and statistical analysis of cash flows related to energy brokering and solar power
+- Independently developed processes using SQL and Stata to establish a system of collecting, storing, and verifying thousands of payments
+- Conducted research to confirm hundreds of thousands of dollars in accounts payable and accounts receivable
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Aug 2016 - May 2018`
+__New York University, Steinhardt School__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Master of Music Technology
 
-- Sizar
+`Aug 2011 - May 2015`
+__University of Michigan, Stephen M. Ross School of Business__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Bachelor of Business Administration
 
-- Fellow
+## Academic Recognition
 
+Spring 2017 Music Technology Open House Software Design Competition Winner, *New York University*
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+Received University Honors in six of eight undergraduate semesters, *University of Michigan*
 
 
 
