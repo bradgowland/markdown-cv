@@ -5,13 +5,9 @@ title: Brad Gowland's CV
 # Brad Gowland
 Data Analyst, Software Developer, Audio Engineer
 
-## Currently
-
-Data Analyst/BI developer and New York Public Radio
-
-### Specialized in
-
-Database management, data analysis, software development, audio engineering
+628 W. 151st St,
+New York, New York 10031
+bgowland@umich.edu
 
 ## Work Experience
 
@@ -35,12 +31,12 @@ __Financial Analyst, Nextility__
 `Aug 2016 - May 2018`
 __New York University, Steinhardt School__
 
-- __Master of Music Technology__
+### Master of Music Technology
 
 - G.P.A. 3.93/4.0
 - Primary course experience in software development, machine learning, music information retrieval, digital signal
 processing, digital audio production
-- Major Projects
+#### Major Projects
   - Created a Node.js web application for real-time music collaboration as thesis project
   - Creted a bird call classifier using Python for signal processing and machine learning
   - Created a multiband compressor using C++ for signal processing
@@ -51,19 +47,17 @@ processing, digital audio production
 `Aug 2011 - May 2015`
 __University of Michigan, Stephen M. Ross School of Business__
 
-- __Bachelor of Business Administration__
-- *Minors in Sustainability and Music*
-
+### Bachelor of Business Administration (Environmental Studies and Music minors)
 - G.P.A. 3.85/4.0
-- *Major course experience:* accounting, finance, marketing, statistics, economics, programming
-- *Sustainability minor experience:* energy systems, urban studies, environmental markets
-- *Music minor experience:* musicology, music theory, performance, music journalism
+- Major course experience: accounting, finance, marketing, statistics, economics, programming
+- Sustainability minor experience: energy systems, urban studies, environmental markets
+- Music minor experience: musicology, music theory, performance, music journalism
 
 ## Academic Recognition
 
-Spring 2017 Music Technology Open House Software Design Competition Winner, *New York University*
+*New York University:* Spring 2017 Music Technology Open House Software Design Competition Winner, 
 
-Received University Honors in six of eight undergraduate semesters, *University of Michigan*
+*University of Michigan:* Received University Honors in six of eight undergraduate semesters
 
 
 ## Technical Skills
