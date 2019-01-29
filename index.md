@@ -35,7 +35,7 @@ __New York University, Steinhardt School__
 - Primary course experience in software development, machine learning, music information retrieval, digital signal
 processing, digital audio production
   
-- **Major Projects**
+**Major Projects**
 - Created a Node.js web application for real-time music collaboration as thesis project
 - Creted a bird call classifier using Python for signal processing and machine learning
 - Created a multiband compressor using C++ for signal processing
