@@ -62,7 +62,6 @@ __University of Michigan, Stephen M. Ross School of Business__
 `2011 - 2015`
 *University of Michigan:* Received University Honors in six of eight undergraduate semesters
 
-
 ## Technical Skills
 
 - __Data and Analysis__
