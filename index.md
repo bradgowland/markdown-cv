@@ -62,10 +62,12 @@ __University of Michigan, Stephen M. Ross School of Business__
 *University of Michigan:* Received University Honors in six of eight undergraduate semesters
 
 ## Technical Skills
+
 - **Data and Analysis**
   - SQL: Schema design, data cleaning, research
   - R: Web scraping, statistical analysis
   - Python: Machine learning with `scikit-learn`
+
 - **Application Development**
   - Javascript: Node.js application development, APIs, web sockets
   
