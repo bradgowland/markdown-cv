@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Brad Gowland's CV
+title: Brad Gowland CV
 ---
 # Brad Gowland
 Data Analyst, Software Developer, Audio Engineer
@@ -31,7 +31,7 @@ __Financial Analyst, Nextility__
 `Aug 2016 - May 2018`
 __New York University, Steinhardt School__
 
-### Master of Music Technology
+#### **Master of Music Technology**
 
 - G.P.A. 3.93/4.0
 - Primary course experience in software development, machine learning, music information retrieval, digital signal
