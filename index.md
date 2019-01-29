@@ -31,12 +31,11 @@ __Financial Analyst, Nextility__
 `Aug 2016 - May 2018`
 __New York University, Steinhardt School__
 
-#### **Master of Music Technology**
-
-- G.P.A. 3.93/4.0
-- Primary course experience in software development, machine learning, music information retrieval, digital signal
-processing, digital audio production
-#### Major Projects
+**Master of Music Technology**
+  - G.P.A. 3.93/4.0
+  - Primary course experience in software development, machine learning, music information retrieval, digital signal
+  processing, digital audio production
+**Major Projects**
   - Created a Node.js web application for real-time music collaboration as thesis project
   - Creted a bird call classifier using Python for signal processing and machine learning
   - Created a multiband compressor using C++ for signal processing
@@ -72,7 +71,7 @@ __University of Michigan, Stephen M. Ross School of Business__
   
 ## Interests 
 
-- Podcasts, 70s and 80s sci-fi novels, synthesizers, Big Ten sports.
+- Podcasts, 70s and 80s sci-fi novels, mdoular synthesizers, drumming, Big Ten sports.
 
 <!-- ### Footer
 Last updated: Jan 2018 -->
