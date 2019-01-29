@@ -7,6 +7,7 @@ Data Analyst, Software Developer, Audio Engineer
 
 628 W. 151st St,
 New York, New York 10031
+
 bgowland@umich.edu
 
 ## Work Experience
@@ -14,17 +15,17 @@ bgowland@umich.edu
 `May 2017 - Present`
 __Senior Data Analyst, New York Public Radio__
 
-* Manage database organization, data cleaning processes, and business intelligence software backend development
-* Conduct research projects to interpret, analyze, and present listening and donation data around the organization
-* Involved in initial development and launch of NYPR's first internal data warehouse project
-* Use of SQL, R, business intelligence software (Looker), Google Analytics products, and Excel
+  - Manage database organization, data cleaning processes, and business intelligence software backend development
+  - Conduct research projects to interpret, analyze, and present listening and donation data around the organization
+  - Involved in initial development and launch of NYPR's first internal data warehouse project
+  - Use of SQL, R, business intelligence software (Looker), Google Analytics products, and Excel
 
 `Jul 2015 - Aug 2016`
 __Financial Analyst, Nextility__
 
-- Independently developed processes using SQL and Stata to establish a system of collecting, storing, and verifying thousands of payments
-- Conducted research to confirm hundreds of thousands of dollars in accounts payable and accounts receivable
-- Provided financial and statistical analysis of cash flows related to energy brokering and solar power
+  - Independently developed processes using SQL and Stata to establish a system of collecting, storing, and verifying thousands of payments
+  - Conducted research to confirm hundreds of thousands of dollars in accounts payable and accounts receivable
+  - Provided financial and statistical analysis of cash flows related to energy brokering and solar power
 
 ## Education
 
@@ -64,12 +65,12 @@ __University of Michigan, Stephen M. Ross School of Business__
 
 ## Technical Skills
 
-- __Data and Analysis__
+- **Data and Analysis**
   - SQL: Schema design, data cleaning, research
   - R: Web scraping, statistical analysis
   - Python: Machine learning with `scikit-learn`
   
-- __Application Development__
+- **Application Development**
   - Javascript: Node.js application development, APIs, web sockets
   
 ## Interests 
