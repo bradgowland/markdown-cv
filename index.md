@@ -32,7 +32,7 @@ __New York University, Steinhardt School__
 
 **Master of Music Technology**
 - G.P.A. 3.93/4.0
-- Primary course experience in software development, machine learning, music information retrieval, digital signal
+- Primary course experience in software development, machine learning, music information retrieval,<br/> digital signal
 processing, digital audio production
   
 **Major Projects**
